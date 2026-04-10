@@ -1,6 +1,6 @@
 # [[NPC Name]]
 
-## Quick Capture (Session)
+## Quick Capture
 - **Where:** [[Location]]
 - **Affiliation:** [[Faction/Group]] | Unknown
 - **Role:** (guard, noble, shopkeep, etc.)
@@ -89,7 +89,7 @@
 
 ---
 
-## Mechanical Notes (Optional)
+## Mechanical Notes (No metagaming :( 🗞️)
 - **Class/Type:**
 - **Combat Role:**
 - **Abilities observed:**
