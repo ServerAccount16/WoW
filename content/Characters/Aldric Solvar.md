@@ -107,6 +107,8 @@ They parted that day.
 
 ---
 
+# HENRIK READ THIS AND DOWN
+
 It was not long after that he met [[Henrik|Henrik]].
 
 Where others had been an inconvenience, [[Henrik|Henrik]] was steady. Reliable. A man who understood consequence and did not invite it unnecessarily. Their shared past in the same fort gave them common ground, but it was their approach to conflict that kept them together.
