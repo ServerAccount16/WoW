@@ -1,5 +1,6 @@
+aliases: [Aldric, Solvar, Aldric Solvar, Weber]
 # Backstory --
-Aldric Solvar was once a soldier of the [Dwendalian Empire](Dwendalian Empire), stationed at a coastal fort where discipline had long since faded. The post was quiet, the soldiers untrained, and Aldric himself was unremarkable. He was simply another man following orders.
+Aldric Solvar was once a soldier of the [[Dwendalian Empire]], stationed at a coastal fort where discipline had long since faded. The post was quiet, the soldiers untrained, and Aldric himself was unremarkable. He was simply another man following orders.
 
 That changed the day Demetria Indigo arrived.
 
@@ -59,7 +60,7 @@ Demetria chose to follow him.
 
 For a time, the two traveled together, taking work where they could and moving without direction. Aldric did not search for purpose. He did not need one. He went where he was needed, or where he was challenged.
 
-During these travels, he met Henrik, a former soldier who had once served at the same fort. Where others saw arrogance, Henrik saw something unfinished. He took on a quiet mentor role, shaping Aldric’s confidence into control.
+During these travels, he met [[Henrik (Zargo)|Henrik]], a former soldier who had once served at the same fort. Where others saw arrogance, Henrik saw something unfinished. He took on a quiet mentor role, shaping Aldric’s confidence into control.
 
 They worked together on and off for years. They fought, trained, and survived.
 

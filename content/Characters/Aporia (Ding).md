@@ -1,0 +1,1 @@
+aliases: [Aporia, Ding, Dingelle]
