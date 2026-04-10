@@ -303,7 +303,7 @@ A pause.
 
 Then, quieter:
 
-“I know I don’t get to ask this. Not after before. But I am.”
+“I know I don’t get to ask this. But I am.”
 
 Silence settled over the table.
 
