@@ -1,5 +1,27 @@
 aliases: [Aldric, Solvar, Aldric Solvar, Weber]
 Played by - Weber
+
+# Character Appearance
+
+Aldric Solvar is a large man, his presence felt before a word is spoken. Standing at 6’6” with a broad, balanced build, he carries the weight of strength without excess, every movement deliberate, every step measured. He does not shift or fidget. He stands as though the world will move around him.
+
+His features are composed and calm, his expression rarely betraying emotion. Dark hair is tied back into a practical knot, framing a face marked by a few clean, well-earned scars, each one precise rather than reckless. His skin is olive-toned, weathered lightly by sun and sea, but unbroken in its composure.
+
+It is his gaze that lingers.
+
+Amber eyes, steady and unflinching, rest on others with quiet certainty. When unchallenged, they are calm, observing and patient. But when tested, something shifts. The light within them sharpens, brightening into a faint, unnatural glow, as though something behind them has awakened. It is not anger that surfaces, but inevitability.
+
+His armor is worn, but meticulously maintained, bearing the marks of use rather than neglect. It fits him naturally, like an extension of his stance. Practical, unadorned, and reliable.
+
+At his side, or more often across his back, is a greataxe that never leaves his presence. The weapon bears a carved marking along its haft, a symbol etched into the wood and metal alike. Whether it is a personal mark, a remnant of his past, or something tied to the power within him is unclear. What is clear is that it belongs to him, and him alone.
+
+Aldric does not draw attention through movement or voice.
+
+He does not need to.
+
+## TLDR
+
+Aldric Solvar was an unremarkable soldier in the Dwendalian Empire until a raider attack triggered a latent power within him, allowing him to defeat a captain with overwhelming certainty. Feared by his superiors, he was quietly exiled and wandered the coast, briefly partnering with the swindler Demetria Indigo before abandoning her due to her reckless behavior. He later met Henrik, a former soldier who helped temper his arrogance into control. Months before the campaign, Aldric encountered Demetria again during a tavern brawl, where she asked for his protection to find her missing father. Aldric agreed, on the condition that she would not repeat her past mistakes.
 # Backstory --
 [[Aldric Solvar|Aldric Solvar]] was not born remarkable.
 
@@ -107,8 +129,6 @@ They parted that day.
 
 ---
 
-# HENRIK READ THIS AND DOWN
-
 It was not long after that he met [[Henrik|Henrik]].
 
 Where others had been an inconvenience, [[Henrik|Henrik]] was steady. Reliable. A man who understood consequence and did not invite it unnecessarily. Their shared past in the same fort gave them common ground, but it was their approach to conflict that kept them together.
@@ -117,7 +137,11 @@ Where [[Aldric Solvar|Aldric]] moved forward, [[Henrik|Henrik]] ensured it was t
 
 Where [[Aldric Solvar|Aldric]] ended fights, [[Henrik|Henrik]] prevented the wrong ones from starting.
 
-They worked together on and off for over a year. Taking contracts, training, and refining their rhythm. It was not friendship in the traditional sense, but it was trust.
+They worked together on and off for over a year. Taking contracts, training, and refining their rhythm.
+
+It was not friendship.
+
+But it was trust.
 
 And that was enough.
 
@@ -199,9 +223,7 @@ A harsh, steady radiance settled around him as his eyes shifted from amber to go
 
 The room stopped.
 
-Not out of respect.
-
-Out of instinct.
+Not out of respect. Out of instinct.
 
 “Enough.”
 
@@ -305,7 +327,7 @@ A pause.
 
 Then, quieter:
 
-“I know I don’t get to ask this. But I am.”
+“I shouldn't ask this of you. But I am.”
 
 Silence settled over the table.
 
