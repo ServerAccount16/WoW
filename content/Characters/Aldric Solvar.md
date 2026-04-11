@@ -21,7 +21,7 @@ He does not need to.
 
 ## TLDR
 
-Aldric Solvar was an unremarkable soldier in the Dwendalian Empire until a raider attack triggered a latent power within him, allowing him to defeat a captain with overwhelming certainty. Feared by his superiors, he was quietly exiled and wandered the coast, briefly partnering with the swindler Demetria Indigo before abandoning her due to her reckless behavior. He later met Henrik, a former soldier who helped temper his arrogance into control. Months before the campaign, Aldric encountered Demetria again during a tavern brawl, where she asked for his protection to find her missing father. Aldric agreed, on the condition that she would not repeat her past mistakes.
+Aldric Solvar was an unremarkable soldier in the Dwendalian Empire until a raider attack triggered a latent power within him, allowing him to defeat a captain with overwhelming certainty. Feared by his superiors, he was quietly exiled and wandered the coast, briefly partnering with the swindler Demingo Indigo before abandoning her due to her reckless behavior. He later met Henrik, a former soldier who helped temper his arrogance into control. Months before the campaign, Aldric encountered Demingo again during a tavern brawl, where she asked for his protection to find her missing father. Aldric agreed, on the condition that she would not repeat her past mistakes.
 # Backstory --
 [[Aldric Solvar|Aldric Solvar]] was not born remarkable.
 
@@ -39,11 +39,11 @@ When he came of age, the military was simply the next step. Not out of pride or 
 
 He was stationed at a coastal fort where discipline had long since faded. The post was quiet, the soldiers untrained, and [[Aldric Solvar|Aldric]] himself remained unremarkable. He followed orders, stood watch, and passed through each day without distinction.
 
-That changed the day [[Demetria Indigo]] arrived.
+That changed the day [[Demingo Indigo]] arrived.
 
 She came seeking refuge, pursued by a group of raiders she had angered. The garrison was unprepared. When the attack came, the soldiers faltered. Lines broke quickly, and what should have been a defense became chaos.
 
-In the middle of it, [[Demetria Indigo|Demetria]] was cornered by the raiders’ captain and his second.
+In the middle of it, [[Demingo Indigo|Demingo]] was cornered by the raiders’ captain and his second.
 
 [[Aldric Solvar|Aldric]] moved to stand between them.
 
@@ -95,13 +95,13 @@ The fort survived.
 
 His superiors saw what he had become and feared it. Power that did not answer to command could not be controlled. Rather than reward him, they removed him from service. Officially, it was a discharge. In truth, it was exile.
 
-[[Demetria Indigo|Demetria]] left with him.
+[[Demingo Indigo|Demingo]] left with him.
 
 For a time, the two traveled together along the coast, moving between ports, villages, and trade roads that mirrored the life [[Aldric Solvar|Aldric]] had once known. At first, the arrangement was simple. They worked together when it suited them and parted when it did not.
 
 It did not take long for the pattern to reveal itself.
 
-[[Demetria Indigo|Demetria]] was clever. Quick with words, quicker with hands, and rarely honest when she did not need to be. She cheated, stole, and manipulated her way through situations that would have been simpler done cleanly.
+[[Demingo Indigo|Demingo]] was clever. Quick with words, quicker with hands, and rarely honest when she did not need to be. She cheated, stole, and manipulated her way through situations that would have been simpler done cleanly.
 
 And every time it caught up with her, [[Aldric Solvar|Aldric]] was the one who had to deal with the consequences.
 
@@ -119,7 +119,7 @@ In a loud, ugly argument in the middle of a coastal street, with accusations thr
 
 [[Aldric Solvar|Aldric]] made it clear he would not continue cleaning up problems that did not need to exist.
 
-[[Demetria Indigo|Demetria]] laughed it off at first. Then, when it was clear he meant it, her tone shifted.
+[[Demingo Indigo|Demingo]] laughed it off at first. Then, when it was clear he meant it, her tone shifted.
 
 “Fine,” she snapped. “I don’t need you anyway.”
 
@@ -177,7 +177,7 @@ Not completely. But enough.
 
 [[Aldric Solvar|Aldric]] looked down.
 
-[[Demetria Indigo|Demetria]] looked up.
+[[Demingo Indigo|Demingo]] looked up.
 
 Recognition came immediately. So did the realization of what she had just done.
 
@@ -195,7 +195,7 @@ Deliberately.
 
 Around them, the tavern shifted again. Patrons began to move in. The town guard pushed through the door, spreading out as they took control of the room.
 
-[[Demetria Indigo|Demetria]]’s tone changed.
+[[Demingo Indigo|Demingo]]’s tone changed.
 
 Pleading now.
 
@@ -237,7 +237,7 @@ That was enough.
 
 The man stopped mid-sentence.
 
-[[Aldric Solvar|Aldric]] turned his attention back to [[Demetria Indigo|Demetria]].
+[[Aldric Solvar|Aldric]] turned his attention back to [[Demingo Indigo|Demingo]].
 
 “Speak.”
 
@@ -275,7 +275,7 @@ And this time, they listened.
 
 ---
 
-Once the food had been replaced and the noise of the tavern settled back into something resembling normal, [[Demetria Indigo|Demetria]] spoke.
+Once the food had been replaced and the noise of the tavern settled back into something resembling normal, [[Demingo Indigo|Demingo]] spoke.
 
 This time, she did not posture.
 

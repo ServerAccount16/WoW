@@ -7,4 +7,5 @@ title: Wilds of Wildemount
 I shall update this at the very least after every session. I will most likely also update it once or a twice a week as I organize and polish notes.
 
 ###### Note for myself, update using
-`npx quartz sync`
+cd C:\Users\ryan\Documents\Quartz\quartz
+npx quartz sync

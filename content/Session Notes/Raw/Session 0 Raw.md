@@ -19,3 +19,6 @@ Vampires are done different?
 Basic character and Character Picture needs to be done by session 1
 
 Backstory done by first month
+
+Starting in Nicodranas
+
