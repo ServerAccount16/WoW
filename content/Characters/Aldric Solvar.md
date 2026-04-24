@@ -21,341 +21,676 @@ He does not need to.
 
 ## TLDR
 
-Aldric Solvar was an unremarkable soldier in the Dwendalian Empire until a raider attack triggered a latent power within him, allowing him to defeat a captain with overwhelming certainty. Feared by his superiors, he was quietly exiled and wandered the coast, briefly partnering with the swindler Demingo Indigo before abandoning her due to her reckless behavior. He later met Henrik, a former soldier who helped temper his arrogance into control. Months before the campaign, Aldric encountered Demingo again during a tavern brawl, where she asked for his protection to find her missing father. Aldric agreed, on the condition that she would not repeat her past mistakes.
+Aldric Solvar was an unremarkable soldier of the Dwendalian Empire, stationed at a failing coastal fort where nothing of consequence was expected of him.
+
+That changed the day a raider attack forced him to act.
+
+When he stepped forward to face the raiders’ captain, something within him did not rise in fury or desperation. It simply settled. The fight was decided before it began. Aldric did not overpower the man. He advanced, unshaken, until there was no outcome left but one.
+
+His superiors did not see a soldier worth promoting. They saw something they could not control.
+
+He was quietly removed from service.
+
+Afterward, Aldric drifted along the coast as a mercenary, briefly traveling with Demingo Indigo, a reckless swindler whose repeated mistakes forced him to abandon her. 
+
+He later worked alongside Henrik, a former soldier whose steadiness tempered Aldric’s forward momentum into something more controlled and deliberate.
+
+Months later, she returned, asking for his help in finding her missing father. Aldric agreed, but only under one condition:
+
+She would not make the same mistakes again.
+
+He does not believe she will keep that promise.
 # Backstory --
-[[Aldric Solvar|Aldric Solvar]] was not born remarkable.
 
-He was raised along the western coasts of the [[Dwendalian Empire]], in a small settlement that existed more for passing trade than permanence. His father was a dockhand who took work where ships demanded it. His mother kept what little stability the household had, managing coin, food, and the quiet order of daily life. Neither were exceptional, and neither expected their son to be.
+Aldric Solvar was not born to stand out.
 
-[[Aldric Solvar|Aldric]] grew as they had lived. Quiet. Capable. Unnoticed.
+He was raised along the western coast of the Dwendalian Empire, in a settlement that existed more for passing ships than permanence. His father took work where it could be found. His mother kept what little structure their life required. There was no expectation placed on Aldric to become anything beyond what was needed.
 
-He learned to work early. Carrying cargo, repairing nets, watching tides. He was strong, but not uniquely so. Reliable, but not valued for anything beyond that. There was no moment that marked him as different. No expectation placed on him to become more.
+He grew into that expectation without resistance.
 
-If anything, he was expected to remain exactly as he was.
+He worked early. Carried cargo. Repaired nets. Watched the tides come and go without change. He was strong, but not exceptional. Reliable, but not valued beyond that reliability.
+
+There was no moment that marked him as different.
+
+When he came of age, he enlisted. Not out of pride, nor belief, but because it was the next step available to him. The military offered structure. A place to exist without needing to ask what came next.
+
+He was stationed at a coastal fort that had long since lost its discipline. The post was quiet. The soldiers were untrained. The work was routine.
+
+Aldric fit into it without disruption.
+
+That changed the night Demingo Indigo arrived.
+
+She came seeking refuge, pursued by raiders she had angered. The garrison was unprepared. When the attack came, formation broke almost immediately. What should have been a defense became scattered resistance.
+
+In the chaos, Demingo was cornered by the raiders’ captain.
+
+Not the first to fall.
+
+One of the garrison had already tried. A man Aldric had stood watch with. He stepped forward too quickly, too uncertain.
+
+The captain cut him down without effort.
+
+That was when Aldric moved.
+
+Not because he had to.
+
+Because no one else would.
+
+The captain dismissed him immediately. A man like Aldric was not meant to matter.
+
+Aldric did not answer.
+
+Behind him, someone shouted an order.
+
+“Fall back! Hold the line!”
+
+Aldric didn’t turn.
+
+He didn’t acknowledge it.
+
+He stepped forward anyway.
 
 ---
 
-When he came of age, the military was simply the next step. Not out of pride or belief, but because it offered structure and a place to belong. [[Aldric Solvar|Aldric]] enlisted without hesitation, and without ambition.
+When the captain struck, Aldric met him.
 
-He was stationed at a coastal fort where discipline had long since faded. The post was quiet, the soldiers untrained, and [[Aldric Solvar|Aldric]] himself remained unremarkable. He followed orders, stood watch, and passed through each day without distinction.
+There was no surge of strength. No burst of speed. No moment of desperation.
 
-That changed the day [[Demingo Indigo]] arrived.
+Only stillness.
 
-She came seeking refuge, pursued by a group of raiders she had angered. The garrison was unprepared. When the attack came, the soldiers faltered. Lines broke quickly, and what should have been a defense became chaos.
+The captain pressed harder. Faster. Stronger.
 
-In the middle of it, [[Demingo Indigo|Demingo]] was cornered by the raiders’ captain and his second.
+Aldric did not change.
 
-[[Aldric Solvar|Aldric]] moved to stand between them.
+He advanced.
 
-The captain laughed, calling him weak and insignificant. He spoke as though [[Aldric Solvar|Aldric]] had already lost, as if men like him existed only to fall.
+Slowly. Without urgency.
 
-[[Aldric Solvar|Aldric]] did not respond.
+As though the outcome had already been decided, and he was simply moving toward it.
 
-He held his ground as the captain closed the distance, unmoving, unshaken, as though nothing before him required adjustment.
+---
 
-When the captain struck, [[Aldric Solvar|Aldric]] met him. Not with desperation, nor with effort, but with something far quieter.
+The captain’s final strike came with everything he had left.
 
-Certainty.
+Aldric answered it with a single motion.
 
-There was no sudden surge, no violent shift. Only the slow realization, as the clash continued, that something about [[Aldric Solvar|Aldric]] did not change. Not his footing. Not his breathing. Not his gaze.
+Clean.
 
-While the captain pressed harder, [[Aldric Solvar|Aldric]] did not yield. He did not strain.
+Certain.
 
-He simply advanced.
+Uncontested.
 
-Not quickly. Not forcefully.
+The man fell.
 
-Inevitably.
+---
 
-And with each step, it became clear.
+The fight ended soon after.
 
-This was not a contest.
+But Aldric didn’t stop.
 
-It had already been decided.
+Not immediately.
 
-The captain’s final strike came with all the force he could muster.
+He stood where he was, eyes fixed forward, as if something had not yet finished.
 
-[[Aldric Solvar|Aldric]] answered it with a single motion.
+Someone shouted again.
 
-The blow was clean. Uncontested.
+“Stand down!”
 
-The captain fell.
+No response.
 
-[[Aldric Solvar|Aldric]] stood over him, unchanged, as though nothing had been risked. When he spoke, it was not with pride, nor anger, but simple truth.
+Only when another soldier physically stepped between him and the field did Aldric finally stop.
 
-"_This was decided the moment you stepped forward._"
-
-The second in command fled.
+---
 
 The fort survived.
 
----
+Aldric did not remain.
 
-[[Aldric Solvar|Aldric]] did not remain.
+His superiors did not see a soldier who had saved them.
 
-His superiors saw what he had become and feared it. Power that did not answer to command could not be controlled. Rather than reward him, they removed him from service. Officially, it was a discharge. In truth, it was exile.
+They saw a man who had ignored command.
 
-[[Demingo Indigo|Demingo]] left with him.
+A man who did not respond.
 
-For a time, the two traveled together along the coast, moving between ports, villages, and trade roads that mirrored the life [[Aldric Solvar|Aldric]] had once known. At first, the arrangement was simple. They worked together when it suited them and parted when it did not.
-
-It did not take long for the pattern to reveal itself.
-
-[[Demingo Indigo|Demingo]] was clever. Quick with words, quicker with hands, and rarely honest when she did not need to be. She cheated, stole, and manipulated her way through situations that would have been simpler done cleanly.
-
-And every time it caught up with her, [[Aldric Solvar|Aldric]] was the one who had to deal with the consequences.
-
-Guards. Debts. Fights that did not need to happen.
-
-At first, he tolerated it.
-
-Then he grew tired of it.
-
-Not because it made things difficult, but because she refused to learn. The same mistakes, repeated without reflection.
-
-Eventually, it ended as it was always going to.
-
-In a loud, ugly argument in the middle of a coastal street, with accusations thrown and patience spent.
-
-[[Aldric Solvar|Aldric]] made it clear he would not continue cleaning up problems that did not need to exist.
-
-[[Demingo Indigo|Demingo]] laughed it off at first. Then, when it was clear he meant it, her tone shifted.
-
-“Fine,” she snapped. “I don’t need you anyway.”
-
-They parted that day.
-
-[[Aldric Solvar|Aldric]] did not look back.
+A man who did not stop when told.
 
 ---
-
-It was not long after that he met [[Henrik|Henrik]].
-
-Where others had been an inconvenience, [[Henrik|Henrik]] was steady. Reliable. A man who understood consequence and did not invite it unnecessarily. Their shared past in the same fort gave them common ground, but it was their approach to conflict that kept them together.
-
-Where [[Aldric Solvar|Aldric]] moved forward, [[Henrik|Henrik]] ensured it was the right moment.
-
-Where [[Aldric Solvar|Aldric]] ended fights, [[Henrik|Henrik]] prevented the wrong ones from starting.
-
-They worked together on and off for over a year. Taking contracts, training, and refining their rhythm.
-
-It was not friendship.
-
-But it was trust.
-
-And that was enough.
-
----
-
-Six months before the start of this journey, the two arrived in a coastal town and took lodging at a modest tavern.
-
-The evening was uneventful.
-
-Food was served. A bard played. Conversations blended into the usual noise of a full room.
-
-[[Aldric Solvar|Aldric]] and [[Henrik|Henrik]] sat at their table, eating in relative silence.
-
-Then the noise shifted.
-
-A voice raised. Another answered. A chair scraped. Then a strike.
-
-The beginnings of a fight.
-
-Neither of them moved.
-
-It was not their concern.
-
-Not until it became theirs.
-
-A figure was thrown across the room.
-
-She struck their table hard enough to shatter the bowl in front of [[Aldric Solvar|Aldric]], sending what remained of his meal across the wood and onto the floor.
-
-The tavern quieted.
-
-Not completely. But enough.
-
-[[Aldric Solvar|Aldric]] looked down.
-
-[[Demingo Indigo|Demingo]] looked up.
-
-Recognition came immediately. So did the realization of what she had just done.
-
-She began speaking quickly. Apologies, excuses, anything that might matter.
-
-[[Aldric Solvar|Aldric]] did not respond.
-
-He picked up what remained of his bread.
-
-And finished it.
-
-Slowly.
-
-Deliberately.
-
-Around them, the tavern shifted again. Patrons began to move in. The town guard pushed through the door, spreading out as they took control of the room.
-
-[[Demingo Indigo|Demingo]]’s tone changed.
-
-Pleading now.
-
-She looked between [[Aldric Solvar|Aldric]] and [[Henrik|Henrik]], desperation replacing whatever confidence she had left.
-
-She spoke of a job. Something important. Something only they could handle.
-
-And asked them not to let this end here.
-
-The guards closed in.
-
-So did the patrons.
-
-[[Aldric Solvar|Aldric]] stood.
-
-The motion alone was enough to shift the room.
-
-Then the light came.
-
-Not blinding. Not explosive.
-
-Controlled.
-
-A harsh, steady radiance settled around him as his eyes shifted from amber to gold.
-
-The room stopped.
-
-Not out of respect. Out of instinct.
-
-“Enough.”
-
-The word carried without force.
-
-The guard captain tried to respond. Something about arrest. About law.
-
-[[Aldric Solvar|Aldric]] looked at him.
 
 That was enough.
 
-The man stopped mid-sentence.
+Officially, he was discharged.
 
-[[Aldric Solvar|Aldric]] turned his attention back to [[Demingo Indigo|Demingo]].
+In truth, he was removed.
 
-“Speak.”
+There was no ceremony. No recognition.
 
-She did.
+Just a quiet conversation behind closed doors.
 
-Quickly. Clearly. For once without manipulation.
+“You don’t follow orders.”
 
-When she finished, silence followed.
+Aldric didn’t respond.
 
-[[Aldric Solvar|Aldric]] considered it.
+“You don’t respond at all.”
 
-Then spoke, not to her, but to the room.
-
-“Leave it.”
-
-There was hesitation.
-
-Then movement.
-
-[[Henrik|Henrik]] rose behind him, one hand resting on his weapon, saying nothing.
-
-That was enough.
-
-The tension broke.
-
-The guards withdrew. The patrons backed off. The moment passed.
-
-[[Aldric Solvar|Aldric]] sat back down.
-
-“More food,” he said.
-
-They moved to another table.
-
-And this time, they listened.
-
----
-
-Once the food had been replaced and the noise of the tavern settled back into something resembling normal, [[Demingo Indigo|Demingo]] spoke.
-
-This time, she did not posture.
-
-She did not exaggerate.
-
-She did not lie.
-
-“My father is missing.”
-
-The words were simple, but the weight behind them was not.
-
-She explained that he had disappeared six years ago. No warning. No message. One day he was there, and the next he was not. At the time, she had been younger, less capable, and surrounded by people who told her to let it go.
-
-She hadn’t.
-
-At first, it had been small things. Questions asked in passing. Names brought up in the wrong places. A trail that never quite formed.
-
-Then, more recently, something changed.
-
-A name resurfaced.
-
-A place.
-
-A rumor that should not have existed if her father had truly vanished without a trace.
-
-It was enough to bring her here.
-
-Enough to make her start asking the wrong questions to the wrong people.
-
-That was what led to the fight.
-
-She looked at [[Aldric Solvar|Aldric]] as she spoke, but did not try to dress it up as anything more than it was.
-
-“I can’t do this alone.”
-
-There was no manipulation in it.
-
-No angle.
-
-Just truth.
-
-“I need protection. Real protection. Not hired blades that run when things turn.”
-
-Her gaze flicked briefly to [[Henrik|Henrik]], then back to [[Aldric Solvar|Aldric]].
-
-“I’ll pay you. Whatever I can. And I won’t waste your time.”
+Still nothing.
 
 A pause.
 
-Then, quieter:
+Then, more carefully:
 
-“I shouldn't ask this of you. But I am.”
+“We don’t know what you are.”
 
-Silence settled over the table.
+That was the truth of it.
 
-[[Aldric Solvar|Aldric]] did not answer immediately.
+Not insubordination.
 
-He did not ask for details.
+Not failure.
 
-He did not question her.
+Uncertainty.
 
-He simply considered.
+And in a system built on control, uncertainty could not be kept.
 
-Not the job.
+---
 
-Not the coin.
+He was given coin.
 
-Her.
+Given a direction.
 
-Whether she had changed.
+And told not to return.
 
-Whether it mattered.
+Demingo left with him.
 
-Finally, he spoke.
+---
+
+For a time, they traveled together along the coast. The arrangement was simple at first. They worked when it suited them. They moved when it was necessary.
+
+It did not take long for the pattern to reveal itself.
+
+Demingo was clever. Quick with words, quicker with hands, and rarely honest unless it served her. She cheated, stole, and manipulated her way through situations that did not need to be complicated.
+
+And every time it caught up with her, Aldric dealt with the consequences.
+
+Guards. Debts. Fights.
+
+At first, he tolerated it.
+
+Then he began to watch for it.
+
+Then he began to expect it.
+
+The problem was not that she made mistakes.
+
+It was that she made the same ones.
+
+Over and over.
+
+Without change.
+
+Without reflection.
+
+Eventually, Aldric stopped correcting her.
+
+Eventually, it ended as it was always going to.
+
+In the middle of a coastal street, with voices raised and patience long since spent.
+
+Demingo was already talking before he said anything. Fast. Defensive. Dismissing it all like she always did.
+
+“It worked, didn’t it?” she snapped. “We got out of it. We always do.”
+
+Aldric’s gaze settled on her.
+
+There was no immediate answer.
+
+Because she wasn’t entirely wrong.
+
+That didn’t make her right.
+
+That only made her push harder.
+
+“Oh, what, now it’s a problem?” she went on. “You didn’t seem to mind when it was working in your favor. When I was getting us coin. When I was keeping things interesting.”
+
+Still nothing.
+
+She stepped closer, searching for a reaction.
+
+“Or is this just what you do?” she said, her tone sharpening. “Act like you’re better than everyone else while you clean up after them? Must make you feel real important.”
+
+A pause.
+
+Then, quieter. More pointed.
+
+“Go on, then. Say it. Say I’m the problem. Seems like you’ve been thinking it long enough.”
+
+Aldric’s gaze settled on her.
+
+Not angry.
+
+Not raised.
+
+Just steady.
+
+“You don’t learn.”
+
+That was it.
+
+No accusation. No heat.
+
+Just truth.
+
+For a moment, that landed.
+
+Then she laughed, too quick, too sharp.
+
+“Right. That’s the issue,” she said, throwing her hands out. “Not the guards, not the fights, not the fact that everything’s already stacked against us. No, it’s me.”
+
+Aldric didn’t move.
+
+“You’re waiting for it to change,” he said. “It won’t.”
+
+Something in her expression cracked, just for a second.
+
+She covered it fast.
+
+“Then leave,” she shot back. “If I’m such a problem, just go. You don’t need me.”
+
+Aldric held her gaze for a moment longer.
+
+Then:
+
+“I’m done.”
+
+No force. No hesitation.
+
+Final.
+
+She stared at him, searching for something to push against. Something to argue with.
+
+There was nothing there.
+
+“Fine,” she snapped, turning away. “Didn’t need you anyway.”
+
+Aldric didn’t respond.
+
+He had already decided.
+
+He turned, and walked.
+
+This time, he did not look back.
+
+---
+
+Not long after, Aldric met Henrik.
+
+They had both served at the same coastal fort, though not at the same time. Henrik had left a few years prior, long before Aldric ever stepped foot there.
+
+Still, the place was enough.
+
+The same failing command. The same erosion of discipline. The same quiet understanding of what that kind of post did to a soldier.
+
+It gave them common ground without needing explanation.
+
+Henrik was different from most Aldric had worked with since leaving the military.
+
+Where others invited trouble, Henrik avoided it. Where others rushed forward, Henrik waited.
+
+Not out of fear.
+
+Not entirely.
+
+Henrik understood risk better than most, and he preferred to avoid it when he could. He watched longer. Weighed more. Let moments stretch just a little further than others would.
+
+The first time they worked together, it was meant to be simple. A routine contract. Nothing worth remembering.
+
+It went wrong anyway.
+
+A conversation turned. Voices raised. Hands drifted toward weapons.
+
+Aldric moved to end it.
+
+Henrik stepped in before it could begin.
+
+A word placed at the right moment. A shift in stance. Just enough pressure to break the tension before steel was drawn.
+
+The moment passed.
+
+Aldric noticed.
+
+Sometimes, that restraint turned situations aside before they ever became dangerous.
+
+Other times, it came a second too late.
+
+There were times where hesitation cost them. Where a moment slipped, and what could have been avoided became inevitable.
+
+In those moments, Aldric stepped forward.
+
+Not rushed. Not reactive.
+
+Certain.
+
+Where Henrik held the line, Aldric broke it.
+
+Over time, a rhythm formed.
+
+Henrik watched. Measured. Chose when something could still be turned aside.
+
+Aldric decided when it could not.
+
+When words failed, Aldric moved.
+
+When movement would make things worse, Henrik spoke.
+
+They trained when time allowed.
+
+Not formally. Not with structure.
+
+Just repetition.
+
+Steel meeting steel in quiet spaces. Testing limits. Learning the edges of one another.
+
+Henrik watched closely.
+
+Not just the strikes, but the spaces between them. The way Aldric moved forward without hesitation, without adjustment. No searching. No second-guessing.
+
+Just decision.
+
+Aldric did not change much.
+
+He didn’t need to.
+
+Henrik could have tried to match that.
+
+Instead, he chose not to.
+
+He adjusted his footing. His timing. Learned where to give ground, and where to hold it. Not out of necessity, but because it gave him control over the fight.
+
+Where Aldric drove through an opponent, Henrik shaped the ground beneath him.
+
+Where Aldric struck, Henrik made sure it mattered.
+
+The hammer and the anvil.
+
+Not unequal.
+
+Interdependent.
+
+Their bouts did not end quickly.
+
+There were moments where Henrik’s patience turned Aldric’s advance aside. Where a single misstep, a fraction too much commitment, nearly cost him.
+
+Aldric accounted for that.
+
+Even if he would never say it.
+
+If they were to cross blades in earnest, there would be no easy outcome.
+
+Only a brief moment of hesitation.
+
+Then the fight would begin.
+
+They did not spend long nights at campfires trading stories.
+
+They did not need to.
+
+A glance was enough. A pause. The shift of weight before a fight began.
+
+Henrik stood where he needed to.
+
+Aldric moved when he chose to.
+
+And neither questioned the other.
+
+It was not loud.
+
+It was not spoken.
+
+But it was there.
+
+An understanding.
+
+A trust.
+
+---
+
+Months later, in a crowded tavern, Aldric saw Demingo again.
+
+He recognized her before she saw him.
+
+She was already working the room.
+
+Moving from table to table, laughing too easily, leaning too close, saying whatever needed to be said to keep attention on her. A half-finished drink in one hand, someone else’s coin already halfway to disappearing in the other.
+
+It was familiar.
+
+It was predictable.
+
+It was going to go wrong.
+
+Aldric didn’t move.
+
+Across from him, Henrik had already noticed. His gaze tracked her movement, not with interest, but with quiet calculation. Watching the patrons. Watching the ones starting to notice.
+
+Waiting for the turn.
+
+It came quickly.
+
+A hand caught her wrist.
+
+A chair scraped hard against the floor.
+
+The laughter stopped.
+
+Voices rose.
+
+Demingo twisted free, fast, trying to talk her way out of it. But the moment had already shifted. Whatever she had taken, whoever she had crossed, it wasn’t going to end clean.
+
+More people stood. A circle forming.
+
+Aldric didn’t move.
+
+Not yet.
+
+The shove came next.
+
+She staggered, off-balance, still trying to recover it, still talking—
+
+Then she was thrown.
+
+She hit the table hard enough to scatter what little remained of his meal. Bread slid across the wood and onto the floor. A cup tipped. Ale spread.
+
+For a moment, everything stilled.
+
+Demingo looked up.
+
+Recognition came fast.
+
+“Aldric—”
+
+He didn’t answer.
+
+He reached for what remained of the bread and finished it. Slow. Deliberate. As if nothing had changed.
+
+Across from him, Henrik had already gone still.
+
+Not tense.
+
+Watching.
+
+Measuring the room. The patrons closing in. The guards pushing through the door. The way the situation was about to turn.
+
+Demingo scrambled to her feet, words coming fast.
+
+Excuses. Apologies. Half-formed explanations.
+
+None of it landed.
+
+The dwarf she had crossed shoved forward again, joined now by others. Hands grabbing. Voices rising.
+
+The guards stepped in.
+
+Demingo’s tone broke.
+
+“Aldric, wait—just—just listen—”
+
+He still said nothing.
+
+Henrik’s hand shifted, resting lightly near his weapon. Not drawn. Not threatening.
+
+Ready.
+
+Waiting to see which way this would go.
+
+Demingo saw it.
+
+She saw both of them.
+
+And something in her changed.
+
+The act dropped.
+
+“This isn’t—”
+
+She stopped.
+
+You can _see_ it happen.
+
+The lie. The easy version. The one that always works.
+
+And for the first time—
+
+She lets it die.
+
+Her jaw tightens.
+
+“…I don’t know how to say this without it sounding like a play,” she admits, quieter now. “So I’m not going to try.”
+
+That alone is new.
+
+No angle. No setup.
+
+Just… nothing to hide behind.
+
+Aldric’s gaze settled on her.
+
+Steady.
+
+Unmoved.
+
+She hesitated, just for a second, then pushed through it.
+
+“My father is gone,” she says. “And I don’t know how to find him.”
+
+The noise around them pressed in, but it didn’t matter.
+
+“I looked. I asked. No one knows anything,” she went on, voice tightening. “I can’t find him. I can’t do this on my own.”
+
+Hands pulled at her again. The guards closing in.
+
+She didn’t look away from Aldric.
+
+“I need help.”
+
+A beat.
+
+Then, quieter.
+
+“Not like before.”
+
+Silence stretched.
+
+Henrik glanced toward Aldric.
+
+Then, briefly, toward Demingo.
+
+A small shift.
+
+A read.
+
+Not approval.
+
+Not trust.
+
+But something close to certainty.
+
+Aldric saw it.
+
+And returned his attention to her.
 
 “Then you won’t make the same mistakes.”
 
-It was not a question.
+It wasn’t loud.
 
-It was a condition.
+It didn’t need to be.
+
+Demingo flinched like she’d been struck.
+
+For a second, it looked like she might push back. Laugh it off. Turn it into something easier.
+
+She didn’t.
+
+“…I already did,” she said, quieter than before. Not confident. Not convincing.
+
+That was new.
+
+No defense.
+
+No deflection.
+
+No attempt to turn it.
+
+Just truth.
+
+Aldric held her gaze a moment longer.
+
+Then he stood.
+
+The movement alone shifted the room.
+
+Henrik rose with him, not a step behind, one hand settling firmly on his weapon now.
+
+The guards slowed.
+
+The patrons hesitated.
+
+Aldric didn’t look at them.
+
+“Leave her.”
+
+No force.
+
+No threat.
+
+Just certainty.
+
+It was enough.
+
+The moment broke. The pressure eased. Hands pulled back.
+
+Demingo sagged where she stood.
+
+Aldric didn’t offer a hand.
+
+He turned back to the table.
+
+“More food,” he said.
+
+Henrik let out a quiet breath, tension easing just slightly as the room settled. He glanced once toward Demingo, then back to Aldric.
+
+No questions.
+
+They already had their answer.
+
+---
+
+Since then, Aldric has traveled with Demingo and Henrik, moving from one task to the next.
+
+He has not forgotten what she is, nor does he pretend otherwise.
+
+He watches.
+
+He waits.
+
+And when necessary, he intervenes.
 
 Character Portrait:
 ![[Aldric Uncolored.png]]
