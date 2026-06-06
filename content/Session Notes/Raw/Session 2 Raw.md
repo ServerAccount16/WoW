@@ -1,6 +1,6 @@
 Angels will come back after reporting to [[Pelor]]
 
-[[Elionoura]] wants to go back to town
+[[Ellyanora]] wants to go back to town
 
 she shapeshifts into a cat
 
@@ -14,7 +14,7 @@ we have to take letter back to lord
 
 we get into carriage
 
-[[Elionoura]] said she wasn't making weapons to kill the gods when henrik asks
+[[Ellyanora]] said she wasn't making weapons to kill the gods when henrik asks
 
 She said shed sort out if there was other of her civ
 
@@ -36,7 +36,7 @@ necklace would eventually not work
 
 same with wipe memories
 
-[[Elionoura]] opens the door of the carriage and steps into a mansion with a ghostly buttler
+[[Ellyanora]] opens the door of the carriage and steps into a mansion with a ghostly buttler
 
 party does not want mind wiped
 
@@ -46,13 +46,13 @@ Aporia acts shocked
 
 5 hours then make to nicodranas
 
-[[Elionoura]] promises aporia tattoo later tonight
+[[Ellyanora]] promises aporia tattoo later tonight
 
 we split up in town
 
 aporia go finds book
 
-demi aldric and [[Elionoura]] go get wasted
+demi aldric and [[Ellyanora]] go get wasted
 
 ori hen go to noble house with letter
 
@@ -70,10 +70,10 @@ aproia gets her book
 
 we all go to tavern and chill
 
-running joke of hands, eating books, and [[Elionoura]] not letting us get drunk
+running joke of hands, eating books, and [[Ellyanora]] not letting us get drunk
 
 Aldric eats magic paper
 
-henrik aldric room, orivon aporia room, [[Elionoura]] and demi room
+henrik aldric room, orivon aporia room, [[Ellyanora]] and demi room
 
 It's called a helping hand

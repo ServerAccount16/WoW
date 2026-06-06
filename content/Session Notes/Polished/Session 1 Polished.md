@@ -189,7 +189,7 @@ There had been symbols on the floor that would have released her.
 
 She cast Comprehend Languages in a way none of us recognized.
 
-Her name was [[Elionoura]]. Head of logistics.
+Her name was [[Ellyanora]]. Head of logistics.
 
 She despised the title. And the gods even more.
 

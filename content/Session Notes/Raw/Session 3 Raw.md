@@ -84,13 +84,13 @@ Possibly moving north to a larger library.
 
 Instead we take a barge to Port Damali. Takes 6 days. Eli gets her own penthouse and everyone but Henrik and Aldric get mid tier rooms
 
-Aporia goes to speak with [[Elionoura]]
+Aporia goes to speak with [[Ellyanora]]
 
 Orivon goes and preforms in the gambling hall and Demingo follows
 
 Henrik and Aldric spared on the deck and Henrik drew the map
 
-A maid came by and tried to get us to steal from [[Elionoura]]
+A maid came by and tried to get us to steal from [[Ellyanora]]
 
 Henrik grabs her and we call the guards and turn her in
 
